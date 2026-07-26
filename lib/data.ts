@@ -6,6 +6,7 @@ export const profile = {
   email: "amaadk07@gmail.com",
   linkedin: "https://www.linkedin.com/in/amaad-k-b2a55b1a5",
   github: "https://github.com/amaad31",
+  tagline: "Software & Infrastructure · FAU Erlangen-Nürnberg",
 }
 
 export const about = [

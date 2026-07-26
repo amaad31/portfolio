@@ -34,7 +34,7 @@ export function About() {
             </div>
             <div className="flex justify-between gap-4 border-t border-border py-2">
               <dt className="text-muted-foreground">focus</dt>
-              <dd className="text-right text-primary">cloud · infrastructure</dd>
+              <dd className="text-right text-primary">software · infrastructure</dd>
             </div>
           </dl>
         </Reveal>

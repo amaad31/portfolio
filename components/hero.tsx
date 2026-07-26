@@ -39,8 +39,9 @@ export function Hero() {
 
         <Reveal delay={240}>
           <p className="mt-6 max-w-xl text-pretty leading-relaxed text-muted-foreground">
-            Master&apos;s student in Mechatronics, building reliable software
-            from bare-metal firmware up to cloud-native edge infrastructure.
+            Master&apos;s student in Mechatronics. 
+            Interested in software engineering, cloud infrastructure, 
+            and distributed systems, with a focus on building reliable systems at scale.
           </p>
         </Reveal>
 

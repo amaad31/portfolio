@@ -3,7 +3,6 @@
 
 export const profile = {
   name: "Amaad Ashraf Khan",
-  tagline: "Embedded & Cloud · FAU Erlangen-Nürnberg",
   email: "amaadk07@gmail.com",
   linkedin: "https://www.linkedin.com/in/amaad-k-b2a55b1a5",
   github: "https://github.com/amaad31",

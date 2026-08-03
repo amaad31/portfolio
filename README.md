@@ -2,7 +2,7 @@
 
 My personal website. Built with Next.js and Tailwind, deployed on Vercel.
 
-**Live:** https://amaad.vercel.app
+**Live:** https://amaadakhan.dev
 
 ## Stack
 
